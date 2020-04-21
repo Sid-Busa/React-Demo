@@ -1,0 +1,13 @@
+.loading-position{
+    margin: auto;
+}
+.city{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.city-info{
+    margin:20px;
+    text-align: center;
+    cursor: pointer;
+}

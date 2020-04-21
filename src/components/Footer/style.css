@@ -1,0 +1,23 @@
+.footer{
+    background-color: #333338;
+    margin-bottom: 0px;
+}
+.footer-social-link{
+    display: flex;
+    justify-content: center;
+}
+.icon-style {
+    height:35px !important;
+    width: 35px !important;
+    margin: 30px 5px;
+}
+.footer-text{
+    text-align: center;
+    color: rgb(136, 136, 136);
+    font-size: 11px;
+    padding-bottom: 20px;
+}
+.footer-text p{
+    padding: 0px;
+    margin: 0px;
+}

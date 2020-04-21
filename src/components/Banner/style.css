@@ -1,0 +1,10 @@
+.Banner{
+    padding:10px 0px;     
+}
+.Banner div{
+    background-color: white;
+}
+.Banner div img{
+    padding:5px;
+    border-radius: 20px;
+}

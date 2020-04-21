@@ -1,0 +1,113 @@
+
+/* 
+    sidebar
+*/  
+.epmty-box{
+    margin-top:63px;
+    background-color: white;
+    height: 278px;
+    width: auto;
+}
+.treinding-list{
+    margin: 10px 0;
+    border-radius: 3px;
+}
+.treinding-title{
+    font-size: 18px;
+    line-height: 21px;
+    color: #333;
+}
+.treinding-card{
+    background: white;
+    padding: 13px;
+    border: 1px solid #f1f1f1;
+    color: #333;
+}
+.treinding-card h4{
+    font-size: 14px;
+    margin-bottom:4px;
+    line-height: 18px;
+}
+.treinding-card p.lang-eng{
+    font-size: 12px;
+    line-height: 14px;
+    margin: 0px;
+}
+/* 
+    ens sidebar
+*/
+#imggg{
+    height: 278px;
+}
+.card-body{
+    padding:10px 5px !important;
+}
+.card img.card-img-top{
+    height:414px;
+    width: auto;
+}
+.react-multiple-carousel__arrow{
+    background-color: white;
+}
+.react-multiple-carousel__arrow::before{
+    color:black;
+}
+.react-multiple-carousel__arrow--right {
+    right: calc(1% + 0px);
+}
+.react-multiple-carousel__arrow--left {
+    left: calc(1% + 0px);
+}
+.main-title{
+    display: flex;
+    justify-content:space-between;
+}
+.title{
+    font-size: 18px;
+    line-height: 21px;
+    color: #333;
+    font-weight: 700;
+    margin:25px 0px 10px 5px;
+    justify-content: flex-start;
+}
+.title-link-all{
+    margin:25px 9px 10px 5px;
+    justify-content: flex-start;
+}
+.card-desrtiption-data{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 10px 5px;
+}
+.card-desrtiption-data-1{
+    flex: 0 0 30%;
+    max-width: 30%;
+    justify-content: center;
+    text-align: center;
+    font-size: 12px;
+}
+.card-desrtiption-data-2-title{
+    font-weight: 700;
+}
+.card-desrtiption-data-2{
+    flex: 0 0 70%;
+    max-width: 70%;
+    font-size: 12px;
+}
+.card-desrtiption-data-2 p{
+    margin: 0px;
+}
+.card{
+    border-radius: 5px;
+    margin:5px
+}
+.react-multiple-carousel__arrow:hover {
+    background: rgba(255,255,255,0.5);
+}
+
+@media only screen and (max-width: 991px) {
+    .main-sidebar {
+      display: none;
+    }
+  }
